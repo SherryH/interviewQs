@@ -3,6 +3,7 @@
 A list of interview Qs to ask companies.
 Read the job descriptions carefully and ask specific and relevant Qs.
 Have conversation with the interviewer! When yu are curious about something, politely ask "Can I ask 1 Q...?"
+Ask clarifying questions when unsure or when the question seems "??"
 
 More interview Qs for companies can be found in:
 https://github.com/CraigRodrigues/InterviewQuestions-FlipTheScript
