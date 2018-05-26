@@ -11,13 +11,15 @@ https://github.com/Twipped/InterviewThis
 ## Technology
 
 * Clarify the tech stack used in frontend/ backend/ devops
+* What other tech are you looking to adopt/ try out?
 
 ## Process/ Responsibility
 
 * What will be my responsibility at the company?
 * What sort of process does the team follow? How is a feature
-* How is testing done?
 * What does a typical day look like?
+* How is testing done?
+* How do you get the user feedback? Do you get to see how end users use the application live?
 
 ## Culture/ Fit
 
