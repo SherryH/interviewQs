@@ -34,6 +34,8 @@ https://github.com/Twipped/InterviewThis
 * Do you have support for training and attending conferences?
 * What is the best thing about working here?
 * What do you see as the biggest challenge here?
+* What is the biggest competition? Where is our niche?
+* Where do you see the team/company will be in 2-3 years time?
 * What is one thing that you wish was different about your job?
 * If there is one thing you could do to improve the company, what would it be?
 
