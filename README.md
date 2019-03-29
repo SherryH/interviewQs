@@ -24,6 +24,10 @@ https://github.com/Twipped/InterviewThis
 ## Process/ Responsibility
 
 * What will be my responsibility at the company?
+* Who is your ideal candidate for this role?
+* How do you measure success for the dev team/ individual and the company?
+* What is the code review process? Averge time to merge? How many approvals? Checklist?
+* How often do you release?
 * What sort of process does the team follow? What does a feature life cycle look like?
 * What does a typical day look like?
 * How is testing done?
@@ -34,10 +38,12 @@ https://github.com/Twipped/InterviewThis
 * Do you have support for training and attending conferences?
 * What is the best thing about working here?
 * What do you see as the biggest challenge here?
+* What are the biggest challenges for this role?
 * What is the biggest competition? Where is our niche?
 * Where do you see the team/company will be in 2-3 years time?
 * What is one thing that you wish was different about your job?
 * If there is one thing you could do to improve the company, what would it be?
+* Who sets the vision for this company?
 
 ## Remote
 
