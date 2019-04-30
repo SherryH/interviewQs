@@ -51,3 +51,6 @@ https://github.com/Twipped/InterviewThis
 * How does the team collaborate on a day to day basis?
 * How often is knowledge sharing done
 * How do you do code walkthrough/ pair programming?
+
+## CEO
+* https://www.quora.com/What-are-some-awesome-questions-to-ask-a-CEO-of-a-startup-during-an-interview
