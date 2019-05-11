@@ -5,7 +5,7 @@ Read the job descriptions carefully and ask specific and relevant Qs.
 
 Have conversation with the interviewer!
 
-When yu are curious about something, politely ask "Can I ask 1 Q...?"
+When you are curious about something, politely ask "Can I ask 1 Q...?"
 
 Ask clarifying questions when unsure or when the question seems "!?". Ask the interviewer how he would answer his question
 
@@ -54,3 +54,8 @@ https://github.com/Twipped/InterviewThis
 
 ## CEO
 * https://www.quora.com/What-are-some-awesome-questions-to-ask-a-CEO-of-a-startup-during-an-interview
+* What inspires you to fund this company?
+* How do you develop your employees?
+* What defines the culture in this company? How do you instill the culture in the period of rapid growth like now?
+* With the trade war going on and the global economy slowing down, what will your strategy be like in these 2 years?
+* There are many big players in this space like __, how do you keep an edge in the competitions and go into profitability? 
