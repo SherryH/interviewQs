@@ -3,6 +3,7 @@
 - Q: What is the development process? (agile? kanban?)
 - Q: Do you take pairing into account when doing project estimation?  
 - Q: Who are the engineers currently working in the team?
+- Q: What were their responsibilities in the previous companies?
 
 ## Hands-on Engineering Manager
 - Q: Who leads the tech discussion at the start of a project? of a FE Project?
