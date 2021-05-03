@@ -1,7 +1,6 @@
 ## Hands-on Knowledge Sharing
 - Q: How often do engineers pair and work on the same ticket? (When they encounter issues? When they pick up new features?)
 - Q: Do you take pairing into account when doing project/ ticket estimation?
-- Q: Is it a common practice for people to pair when working on tickets?
 - Q: Who are the engineers currently working in the team?
 - Q: What were their responsibilities in the previous companies?
 
