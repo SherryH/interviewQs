@@ -32,9 +32,12 @@
 - How does the decision on architecting the app get made? Who participated? Any surprises along the way that you need to pivot?
 - What criteria did you put into the consideration of the architecture?
 - How are the mentorship and onboarding programme carried out? Did you find them useful?
+- Datadog is big on performance. What are some common performance issues you encounter? Is there a playbook shared between teams?
 
 - What are the 3 things about DataDog that you like most?
 - What are the 3 things about DataDog that you would like to see changed?
 - What skill sets have you grown most after joining DataDog?
 - What are the 3 main attributes that you would like to see in the future FE that you hire?
 - What books or resources that you would recommend your fellow FE colleagues / me to read to perform better and become better engineers? 
+
+- What advice would you give to someone who wants to pass the interviews and join Datadog?
